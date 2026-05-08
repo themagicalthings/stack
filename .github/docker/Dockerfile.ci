@@ -1,4 +1,4 @@
-# gstack CI eval runner — pre-baked toolchain + deps
+# stack CI eval runner — pre-baked toolchain + deps
 # Rebuild weekly via ci-image.yml, on Dockerfile changes, or on lockfile changes
 FROM ubuntu:24.04
 
